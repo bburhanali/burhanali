@@ -80,7 +80,7 @@ export default function PortfolioPage() {
         { label: "Turn Latency", value: "<15ms" },
       ],
       featured: true,
-      github: "https://github.com",
+      github: "https://github.com/bburhanali/burhanali",
     },
     {
       id: "dsa-engine",
@@ -96,7 +96,7 @@ export default function PortfolioPage() {
         { label: "Complexity", value: "Optimal O(log N)" },
       ],
       featured: false,
-      github: "https://github.com",
+      github: "https://github.com/bburhanali/burhanali",
     },
     {
       id: "fast-portal",
@@ -112,7 +112,7 @@ export default function PortfolioPage() {
         { label: "Data Records", value: "100% Persistent" },
       ],
       featured: false,
-      github: "https://github.com",
+      github: "https://github.com/bburhanali/burhanali",
     },
     {
       id: "radar-bot",
@@ -128,7 +128,7 @@ export default function PortfolioPage() {
         { label: "Sweep Angle", value: "180° Radar" },
       ],
       featured: false,
-      github: "https://github.com",
+      github: "https://github.com/bburhanali/burhanali",
     },
   ];
 
@@ -884,7 +884,7 @@ export default function PortfolioPage() {
                 {/* Social pill links */}
                 <div className="pt-4 border-t border-slate-800 flex gap-3">
                   <a
-                    href="https://github.com"
+                    href="https://github.com/bburhanali"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex-1 inline-flex items-center justify-center gap-2 py-2.5 rounded-xl border border-slate-800 bg-slate-950 hover:border-slate-700 text-xs font-medium text-slate-300 hover:text-white transition-colors"
